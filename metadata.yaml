@@ -1,0 +1,23 @@
+title: "Analysis of Cantonal Rents in Switzerland (OFS, 2023)"
+author: "Tramont Maxime"
+date: "Nov 14, 2025"
+lang: en
+
+documentclass: report
+fontsize: 11pt
+papersize: a4
+
+geometry:
+  - margin=2.5cm
+
+header-includes:
+  - \usepackage{amsmath}
+  - \usepackage{amssymb}
+  - \usepackage{booktabs}
+  - \usepackage{graphicx}
+  - \usepackage{float}
+  - \usepackage{hyperref}
+
+toc: true
+toc-depth: 2
+numbersections: true
